@@ -19,3 +19,17 @@ In an effort to clarify what vulnerabilities may have been involved in the afore
 ### Cornwall
 
 [Renata McGee](http://www.cornwallny.com/Departments/Town-Clerk), the Town Clerk, [left a voicemail](New%20York/Cornwall/20170814-1227-McGee.mp3) stating that the Town of New Windsor handled IT services for them and several other municipalities.
+
+## Rhode Island
+
+### Department of Education
+
+The Rhode Island Department of Education had [contracted](Rhode%20Island/Department%20of%20Education/RE%20DNN%20Vulnerability%20-%20Urgent%20Attention%20Required%20-2.msg) with [Envision Technology Advisors, LLC](https://www.envisionsuccess.net/) with respect to "Web Site Accessibility, Functionality and Sustainability".
+
+Ed Giroux [discussed](Rhode%20Island/Department%20of%20Education/Re%20EXTERNAL%20%20Website%20has%20been%20hacked.msg) the site being compromised at 6pm on June 26<sup>th</sup>. Kurt Huhn of the Rhode Island Division of Information Technology sent a copy of a message from the [Multi-State Information Sharing and Analysis Center](https://www.cisecurity.org/ms-isac/), which discussed the site compromises, and the vulnerable Mandeeps and EasyDNN modules.
+
+The morning of June 27<sup>th</sup>, there was [some speculation](Rhode%20Island/Department%20of%20Education/FW%20DNN%20Vulnerability%20being%20exploited%20are%20you%20patched%20-2.msg) that [CVE-2015-2794](https://www.cvedetails.com/cve/CVE-2015-2794/) or another issue affecting the installation wizard files (such as the later bug speculated by Ars Technica) may have been to blame, but supposedly Envision had addressed those issues in June 2016.
+
+An upgrade to DNN 9 was [scheduled for 1:30pm on June 27<sup>th</sup>](Rhode%20Island/Department%20of%20Education/DNN%20upgrade%20to%209.msg). Users were told the site would be [locked at 10:30am](Rhode%20Island/Department%20of%20Education/FW%20Website%20will%20be%20locked%20at%201030am%20-3.msg).
+
+The evening of June 28<sup>th</sup>, [Envision shared part of a security advisory](Rhode%20Island/Department%20of%20Education/RE%20DNN%20Vulnerability%20-%20Urgent%20Attention%20Required.msg) they received in which it was suggested that multiple files related to Mandeeps modules be deleted. Envision added that it was "likely" this was related to the site compromise. The deletion happened by late morning June 29<sup>th</sup>.
