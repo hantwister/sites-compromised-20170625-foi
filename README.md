@@ -10,6 +10,8 @@ It was noteworthy that [a critical update for DNN was released on June 21<sup>st
 
 DNN described the June 21<sup>st</sup>, 2017 update as addressing a flaw in a third-party component used by DNN. Carnegie Mellon University's CERT Division [publicly associated](https://www.kb.cert.org/vuls/id/TNOY-APDS9B) the DNN update with Progress Software's [Telerik UI for ASP.NET AJAX library](http://www.telerik.com/products/aspnet-ajax.aspx) and [CVE-2017-9248](http://www.telerik.com/support/kb/aspnet-ajax/details/cryptographic-weakness). The Telerik library also had an update on June 21<sup>st</sup>, 2017, with [the release notes mentioning "security improvements"](http://www.telerik.com/support/whats-new/aspnet-ajax/release-history/ui-for-asp-net-ajax-r2-2017-sp1-version-2017-2-621).
 
+Another source [reported](https://mitchelsellers.com/blogs/2017/06/30/june-2017-dnn-evoq-and-module-security-summary) that, in addition to the update for DNN itself, critical updates were recently released for various modules, including several by [Mandeeps](https://www.mandeeps.com/company/news/critical-security-update---june-2017), some by [DNN GO](https://www.dnngo.net/), and one by [EasyDNN](http://www.easydnnsolutions.com/). Likewise, it was unclear if any of these modules played a role in the compromises.
+
 In an effort to clarify what vulnerabilities may have been involved in the aforementioned compromises, and how the respective system administrators handled the compromises, requests were sent to various city and state governments for e-mails containing one of several keywords, such as DNN.
 
 ## New York
