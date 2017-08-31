@@ -51,7 +51,7 @@ The topic of securing the town sites was [discussed further](New%20York/New%20Wi
 
 At some point, [Mitchel Sellers was granted a superuser account](New%20York/New%20Windsor/151.JPG) on various sites.
 
-On August 3<sup>rd</sup>, the [patches for Telerik and DNN GO were applied](New%20York/New%20Windsor/159.JPG). Over the following two days, there was some [discussion about attempting to upgrade DNN](New%20York/New%20Windsor/151.JPG) to 9.1.1.
+On August 3<sup>rd</sup>, the [patches for Telerik and DNN GO were applied](New%20York/New%20Windsor/159.JPG). Over the following two days, there was some [discussion about attempting to upgrade DNN](New%20York/New%20Windsor/270.JPG) to 9.1.1.
 
 ## Rhode Island
 
