@@ -20,6 +20,39 @@ In an effort to clarify what vulnerabilities may have been involved in the afore
 
 [Renata McGee](http://www.cornwallny.com/Departments/Town-Clerk), the Town Clerk, [left a voicemail](New%20York/Cornwall/20170814-1227-McGee.mp3) stating that the Town of New Windsor handled IT services for them and several other municipalities.
 
+### New Windsor
+
+At one point, the [Town of New Windsor](http://town.new-windsor.ny.us/) appeared to be assisting with running DNN sites for [five other towns](New%20York/New%20Windsor/002.JPG):
+
+* [Montgomery](http://www.townofmontgomery.com/)
+* [Crawford](http://www.townofcrawford.org/)
+* [Blooming Grove](http://www.townofbloominggroveny.com/) - URL may have changed
+* [Highlands](http://www.highlands-ny.gov/)
+* [Cornwall](http://www.cornwallny.com/)
+
+The WHOIS registrant contact for townofcrawford.org at the time of writing is Patrick Mangan, the [Deputy CITO](http://town.new-windsor.ny.us/OfficialsDepartments/InformationTechnology.aspx) of the Town of New Windsor.
+
+There were also references to:
+
+* [Monroe Police Department](New%20York/New%20Windsor/163.JPG), [monroepd.org](http://www.monroepd.org/)
+* [The Josephine-Louise Public Library of Walden](New%20York/New%20Windsor/053.JPG), [waldenlibrary.org](http://www.waldenlibrary.org/)
+
+The WHOIS registrant contact for waldenlibrary.org at the time of writing is Patrick Mangan of [Hudson Valley Computer Guys](http://www.hvcomputerguys.com/).
+
+At about 10am on June 27<sup>th</sup>, requests for [backup restoration](New%20York/New%20Windsor/205.JPG) and [malware scans](New%20York/New%20Windsor/208.JPG) were sent to the hosting provider [GearHost](https://www.gearhost.com/) by Patrick Mangan. GearHost [restored a backup from June 26<sup>th</sup>](New%20York/New%20Windsor/191.JPG).
+
+At about 11am on June 27<sup>th</sup>, [Bonnie Becker](https://www.nytowns.org/node/1283) of the [New York State Association of Towns](https://www.nytowns.org/) [forwarded a warning](New%20York/New%20Windsor/209.JPG) from the New York State Intelligence Center and the [Multi-State Information Sharing and Analysis Center](https://www.cisecurity.org/ms-isac/) about the DNN site compromises.
+
+At some point, the town [received an update notice for EasyDNNnews](New%20York/New%20Windsor/287.JPG), which included a claim that they had previously purchased the module. It was unclear if the module was still in use, and if so, on what site(s).
+
+A month later, on July 27<sup>th</sup>, [an exchange](New%20York/New%20Windsor/042.JPG) between Patrick Mangan and [Mitchel Sellers](https://mitchelsellers.com/) of [Iowa Computer Gurus](https://www.iowacomputergurus.com/) details the compromise of waldenlibrary.org a few days prior, apparently leveraging the installation wizard files, and having footer text on the site contain a malicious redirect. Patrick Mangan [claimed](New%20York/New%20Windsor/051.JPG) to have deleted the install wizard files after the compromise occurred, and hoped to discuss securing the town sites a bit by phone.
+
+The topic of securing the town sites was [discussed further](New%20York/New%20Windsor/038.JPG) on July 28<sup>th</sup>, a [phone call was scheduled](New%20York/New%20Windsor/133.JPG) for August 1<sup>st</sup> at 9am, and may have taken place [after 9:15am](New%20York/New%20Windsor/231.JPG).
+
+At some point, [Mitchel Sellers was granted a superuser account](New%20York/New%20Windsor/151.JPG) on various sites.
+
+On August 3<sup>rd</sup>, the [patches for Telerik and DNN GO were applied](New%20York/New%20Windsor/159.JPG). Over the following two days, there was some [discussion about attempting to upgrade DNN](New%20York/New%20Windsor/151.JPG) to 9.1.1.
+
 ## Rhode Island
 
 ### Department of Education
