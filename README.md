@@ -39,7 +39,7 @@ There were also references to:
 
 The WHOIS registrant contact for waldenlibrary.org at the time of writing is Patrick Mangan of [Hudson Valley Computer Guys](http://www.hvcomputerguys.com/).
 
-At about 10am on June 27<sup>th</sup>, requests for [backup restoration](New%20York/New%20Windsor/205.JPG) and [malware scans](New%20York/New%20Windsor/208.JPG) were sent to the hosting provider [GearHost](https://www.gearhost.com/) by Patrick Mangan. GearHost [restored a backup from June 26<sup>th</sup>](New%20York/New%20Windsor/191.JPG).
+At about 10am on June 27<sup>th</sup>, requests for [backup restoration](New%20York/New%20Windsor/205.JPG) and [malware scans](New%20York/New%20Windsor/208.JPG) were sent to the hosting provider [GearHost](https://www.gearhost.com/) by Patrick Mangan. GearHost [restored a backup from June 26<sup>th</sup>](New%20York/New%20Windsor/191.JPG), though additional actions by Patrick Mangan were apparently necessary to return the site to working order.
 
 At about 11am on June 27<sup>th</sup>, [Bonnie Becker](https://www.nytowns.org/node/1283) of the [New York State Association of Towns](https://www.nytowns.org/) [forwarded a warning](New%20York/New%20Windsor/209.JPG) from the New York State Intelligence Center and the [Multi-State Information Sharing and Analysis Center](https://www.cisecurity.org/ms-isac/) about the DNN site compromises.
 
