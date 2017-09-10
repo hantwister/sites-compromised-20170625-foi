@@ -16,6 +16,10 @@ In an effort to clarify what vulnerabilities may have been involved in the afore
 
 ## New York
 
+### Brookhaven
+
+The town initially [denied my request in full](New%20York/Brookhaven/Initial%20Denial.pdf), claiming the records were trade secrets. Later, [Donna Lent](https://www.brookhavenny.gov/Departments/Town-Clerk), the Town Clerk, [denied an appeal](New%20York/Brookhaven/FOIL%20Appeal%20F-17-4187%20%28Neal%29.pdf), claiming that releasing the requested e-mails would jeopardize the security of the town's IT assets.
+
 ### Cornwall
 
 [Renata McGee](http://www.cornwallny.com/Departments/Town-Clerk), the Town Clerk, [left a voicemail](New%20York/Cornwall/20170814-1227-McGee.mp3) stating that the Town of New Windsor handled IT services for them and several other municipalities.
